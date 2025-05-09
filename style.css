@@ -1,0 +1,13 @@
+#chinese-char-count-tooltip {
+  position: absolute;
+  background-color: #FFFFFF; /* White background */
+  color: #FF0000; /* Red text */
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 24px; /* Increased font size */
+  z-index: 99999; /* Ensure it's on top of most elements */
+  pointer-events: none; /* So it doesn't interfere with mouse events on the page */
+  font-family: Arial, sans-serif;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.2);
+  white-space: nowrap; /* Prevent text wrapping */
+}

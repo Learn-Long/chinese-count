@@ -1,0 +1,17 @@
+# Chrome Extension private key
+*.pem
+
+# Packaged Chrome Extension file
+*.crx
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / Editor specific files
+.vscode/
+*.suo
+*.user
+*.sln
+nbproject/
