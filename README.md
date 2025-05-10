@@ -12,7 +12,7 @@
 
 ### Chrome 瀏覽器 (推薦使用已封裝的 .crx 檔案)
 
-1.  **下載插件檔案**: 從本專案的 [Releases 頁面](PLACEHOLDER_FOR_GITHUB_RELEASES_LINK) 下載最新的 `中文字數統計.crx` 檔案。
+1.  **下載插件檔案**: 從本專案的右邊 Releases 頁面 下載最新的 `中文字數統計.crx` 檔案。
 2.  **打開擴充功能頁面**: 在 Chrome 瀏覽器網址列輸入 `chrome://extensions` 並按下 Enter。
 3.  **啟用開發人員模式**: 在擴充功能頁面的右上角，開啟「開發人員模式 (Developer mode)」的開關。
 4.  **安裝插件**: 將下載的 `.crx` 檔案直接拖曳到擴充功能頁面中。瀏覽器會提示您確認安裝。
